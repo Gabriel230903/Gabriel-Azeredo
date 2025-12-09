@@ -1,292 +1,70 @@
-{
-	"auto_complete":
-	{
-		"selected_items":
-		[
-			[
-				"text",
-				"text-shadow"
-			],
-			[
-				"se",
-				"section__img"
-			],
-			[
-				"bor",
-				"border-radius"
-			],
-			[
-				"border",
-				"border-radius"
-			],
-			[
-				"a",
-				"align-items"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"di",
-				"display"
-			],
-			[
-				"p",
-				"padding"
-			],
-			[
-				"li",
-				"li"
-			],
-			[
-				"al",
-				"alt"
-			],
-			[
-				"do",
-				"double"
-			],
-			[
-				"w",
-				"white"
-			],
-			[
-				"tr",
-				"transition"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"m",
-				"main"
-			],
-			[
-				"bo",
-				"border"
-			],
-			[
-				"inli",
-				"inline-block"
-			],
-			[
-				"max",
-				"max-width"
-			],
-			[
-				"h",
-				"height"
-			],
-			[
-				"box-s",
-				"box-sizing"
-			],
-			[
-				"u",
-				"ul"
-			],
-			[
-				"he",
-				"header"
-			],
-			[
-				"l",
-				"link"
-			],
-			[
-				"d",
-				"div"
-			],
-			[
-				"te",
-				"text-align"
-			],
-			[
-				"t",
-				"text-align"
-			],
-			[
-				"b",
-				"border"
-			]
-		]
-	},
-	"buffers":
-	[
-	],
-	"build_system": "",
-	"build_system_choices":
-	[
-	],
-	"build_varint": "",
-	"command_palette":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"console":
-	{
-		"height": 0.0,
-		"history":
-		[
-		]
-	},
-	"distraction_free":
-	{
-		"menu_visible": true,
-		"show_minimap": false,
-		"show_open_files": false,
-		"show_tabs": false,
-		"side_bar_visible": false,
-		"status_bar_visible": false
-	},
-	"file_history":
-	[
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Meu site/style.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Meu site/index.html",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Aulas/index.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Aulas/index.html",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Meu site/index.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Meu site/index.html.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Meu Site/index.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Meu Site/index.html",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Aulas/index.css.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Aulas/fundo-portfolio.jpg.jpg",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Aulas/css/style.css",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Projeto  23.layout",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Não confirmado 767367.crdownload",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster 2/Aulas/index.html",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Aula 3/index.html",
-		"/C/Users/gabri/AppData/Roaming/Sublime Text/Packages/Acai.tmTheme",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Curso WebMaster/Nova pasta/index.html",
-		"/C/Users/gabri/OneDrive/Área de Trabalho/Acai.tmTheme"
-	],
-	"find":
-	{
-		"height": 32.0
-	},
-	"find_in_files":
-	{
-		"height": 0.0,
-		"where_history":
-		[
-		]
-	},
-	"find_state":
-	{
-		"case_sensitive": false,
-		"find_history":
-		[
-		],
-		"highlight": true,
-		"in_selection": false,
-		"preserve_case": false,
-		"regex": false,
-		"replace_history":
-		[
-		],
-		"reverse": false,
-		"scrollbar_highlights": true,
-		"show_context": true,
-		"use_buffer2": true,
-		"use_gitignore": true,
-		"whole_word": false,
-		"wrap": true
-	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
-	"incremental_find":
-	{
-		"height": 32.0
-	},
-	"input":
-	{
-		"height": 44.8
-	},
-	"layout":
-	{
-		"cells":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		],
-		"cols":
-		[
-			0.0,
-			1.0
-		],
-		"rows":
-		[
-			0.0,
-			1.0
-		]
-	},
-	"menu_visible": true,
-	"output.find_results":
-	{
-		"height": 0.0
-	},
-	"pinned_build_system": "",
-	"project": "index.sublime-project",
-	"replace":
-	{
-		"height": 60.8
-	},
-	"save_all_on_build": true,
-	"select_file":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"select_project":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"selected_group": 0,
-	"settings":
-	{
-	},
-	"show_minimap": true,
-	"show_open_files": true,
-	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 261.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gabriel Azeredo de Oliveira | Desenvolvedor Web</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="img/gabriel.png.jpg" alt="Gabriel Azeredo de Oliveira" class="avatar" />
+    <h1>Gabriel Azeredo de Oliveira</h1>
+    <p>Construindo o futuro, uma linha de código por vez</p>
+    <nav>
+      <ul>
+        <li><a href="#sobre">Quem sou</a></li>
+        <li><a href="#habilidades">O que sei fazer</a></li>
+        <li><a href="#projetos">Meus projetos</a></li>
+        <li><a href="#curiosidades">Curiosidades</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="sobre">
+      <h2>Quem sou</h2>
+      <p>Sou um entusiasta da programação e do design digital. Atualmente estudo Desenvolvimento Web e busco transformar ideias simples em experiências interativas com código limpo e criativo.</p>
+    </section>
+
+    <section id="habilidades">
+      <h2>O que sei fazer</h2>
+      <ul>
+        <li>HTML5 com estrutura semântica</li>
+        <li>CSS3 para estilos modernos</li>
+        <li>JavaScript para interações básicas</li>
+        <li>Sites responsivos para diferentes telas</li>
+      </ul>
+    </section>
+
+    <section id="projetos">
+      <h2>Meus projetos</h2>
+
+      <article>
+        <h3>Portfólio Profissional</h3>
+        <p>Uma vitrine online com meu perfil, competências e formas de contato. Layout limpo e adaptado para dispositivos móveis.</p>
+      </article>
+
+      <article>
+        <h3>Mini E-commerce</h3>
+        <p>Protótipo de uma loja virtual usando HTML e CSS. Organização, estética e clareza como prioridade.</p>
+      </article>
+    </section>
+
+    <aside id="curiosidades">
+      <h2>Curiosidades</h2>
+      <p>Quando não estou codando, estou explorando jogos retrô ou tocando violão para relaxar.</p>
+      <ul>
+        <li><a href="https://github.com/seuusuario" target="_blank">GitHub</a></li>
+        <li><a href="https://linkedin.com/in/seuusuario" target="_blank">LinkedIn</a></li>
+        <li><a href="https://instagram.com/seuusuario" target="_blank">Instagram</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <p>e-mail: gabrielrei352@gmail.com</p>
+    <p>&copy; 2025 Gabriel Azeredo de Oliveira</p>
+  </footer>
+</body>
+</html>
